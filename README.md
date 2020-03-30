@@ -1,4 +1,4 @@
-
+[![Build Status](https://fongentest.visualstudio.com/Test%20DevOps%20Pipeline/_apis/build/status/oysteinfongen.pipelines-java?branchName=master)](https://fongentest.visualstudio.com/Test%20DevOps%20Pipeline/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
